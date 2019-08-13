@@ -860,15 +860,15 @@ a:hover {
 ======================================*/
 
 .intro {
-  height: 100vh;
+  height: 59.7vh;
   position: relative;
   color: #ffffff;
 }
 
 .intro .owl-theme .owl-dots {
   position: absolute;
-  bottom: 70px;
-  right: 50px;
+  bottom: 37px;
+  right: 17px;
 }
 
 .intro .owl-theme .owl-dots .owl-dot span {
@@ -890,7 +890,7 @@ a:hover {
 
 .intro .carousel-item-a {
   position: relative;
-  height: 100vh;
+  height: 59.7vh;
 }
 
 .intro .carousel-item-a.bg-image {
@@ -1711,7 +1711,7 @@ footer .credits {
   }
 
   .intro .owl-theme .owl-dots {
-    right: 200px;
+    right: 122px;
   }
 
   .intro .intro-body {
